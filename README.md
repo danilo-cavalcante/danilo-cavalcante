@@ -12,7 +12,7 @@
  
  <br>
  
-  ### Para entrar em contato comigo, me segue nas redes abaixo!
+  ### Para entrar em contato comigo, siga-me nas redes abaixo!
  
 <div> 
   
