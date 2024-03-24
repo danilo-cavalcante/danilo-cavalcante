@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Para entrar em contato comigo, clique no email abaixo!
+  ### Para entrar em contato comigo, clique nas redes abaixo!
  
 <div> 
   
