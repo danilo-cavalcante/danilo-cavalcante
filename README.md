@@ -18,7 +18,7 @@
 <div> 
   
   <a href = "mailto:dannirocv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://www.linkedin.com/in/danilo-cavalcante-6843802b8/" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/danilo-cavalcante-6843802b8/" target="_blank"><img src="[https://www.linkedin.com/in/danilo-cavalcante-6843802b8/](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=whit)" target="_blank"></a>
  
   ![snake gif](https://github.com/danilo-cavalcante/danilo-cavalcante/blob/output/github-contribution-grid-snake.svg)
 
